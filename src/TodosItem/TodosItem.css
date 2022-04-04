@@ -1,0 +1,22 @@
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px 0;
+}
+
+.li-styles {
+    margin: 8px;
+    padding: 5px;
+    border: 2px solid #111;
+    list-style: none;
+    border-radius: 4px;
+    box-shadow: 0 0 10px #111;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    max-width: 450px;
+    min-width: 280px;
+}
